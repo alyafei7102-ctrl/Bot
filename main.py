@@ -1,3 +1,7 @@
+from keep_alive import keep_alive
+
+# إبقاء البوت يعمل
+keep_alive()
 import os
 import logging
 import openai
